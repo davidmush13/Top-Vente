@@ -1,0 +1,13 @@
+
+ 8.1 - Bouygues - Mobiles 
+=LIEN_HYPERTEXTE("https://www.bouyguestelecom.fr/telephones-mobiles/apple-iphone-14";"Apple-iPhone-14")
+=LIEN_HYPERTEXTE("https://www.bouyguestelecom.fr/telephones-mobiles/apple-iphone-14-pro";"Apple-iPhone-14-Pro")
+=LIEN_HYPERTEXTE("https://www.bouyguestelecom.fr/telephones-mobiles/samsung-galaxy-s23";"Samsung-Galaxy-S23")
+=LIEN_HYPERTEXTE("https://www.bouyguestelecom.fr/telephones-mobiles/apple-iphone-14-plus";"Apple-iPhone-14-Plus")
+=LIEN_HYPERTEXTE("https://www.bouyguestelecom.fr/telephones-mobiles/apple-iphone-14-pro-max";"Apple-iPhone-14-Pro-Max")
+=LIEN_HYPERTEXTE("https://www.bouyguestelecom.fr/telephones-mobiles/samsung-galaxy-s22-5g";"Samsung-Galaxy-S22-5G")
+=LIEN_HYPERTEXTE("https://www.bouyguestelecom.fr/telephones-mobiles/google-pixel-7";"Google-Pixel-7")
+=LIEN_HYPERTEXTE("https://www.bouyguestelecom.fr/telephones-mobiles/apple-iphone-12";"Apple-iPhone-12")
+=LIEN_HYPERTEXTE("https://www.bouyguestelecom.fr/telephones-mobiles/xiaomi-12t-5g";"Xiaomi-12T-5G")
+=LIEN_HYPERTEXTE("https://www.bouyguestelecom.fr/telephones-mobiles/xiaomi-redmi-note-12-5g";"Xiaomi-Redmi-Note-12-5G")
+=LIEN_HYPERTEXTE("https://www.bouyguestelecom.fr/telephones-mobiles/samsung-galaxy-a23-5g";"Samsung-Galaxy-A23-5G")

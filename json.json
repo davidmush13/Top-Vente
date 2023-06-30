@@ -1,0 +1,151 @@
+{
+    "lotteryGameCode": "fdjletresordespyramides2023",
+    "stake": {"value": 200,"currency": "EUR"},
+    "draws": [{"rankIndex": 1,"symbol": 
+        "CC,CF,CG,SC#,CE;
+        CA,CD,CG,CE,CF;
+        CE,CC,BD#,CD,CG;
+        CC,CE,CB,CA,CG;
+        CB,CG,CA,CE,CF+
+        
+        CE,CD,CD,CC,CZ#;
+        CD,CB,CF,CC,CA;
+        BE#,CA,CD,CG,CF;
+        CB,CF,CD,CE,CE;
+        CD,CA,CG,CB,CG+
+        
+        CF,CF,CD,CD,CA;
+        CC,CC,CB,CC,CA;
+        BC#,CD,CA,CD,CD;
+        CF,CG,CE,CA,CB;
+        CA,CC,CG,CE,CB+
+        
+        CD,CA,CA,CF,CA;
+        CD,CF,CC,CF,CB;
+        CG,CB,CF,CC,CF;
+        CB,CG,CG,CA,CF;
+        CE,SD#,CE,CA,CA+
+        
+        CB,CD,CD,CF,CD;
+        CD,CA,CE,CB,CB;
+        CE,CB,CG,CD,CD;
+        CD,CE,CF,CB,CC;
+        CD,CF,CF,CC,CA+
+        
+        CE,CD,CG,CC,CD;
+        CD,CC,BB#,CG,CG;
+        CC,CE,CF,CD,CD;
+        CA,CC,CC,CE,CD;
+        CE,CB,CD,CD,CE+
+        
+        CE,CD,CA,CE,CC;
+        CF,CG,CA,CB,CA;
+        CZ#,CD,CD,BA#,CC;
+        CG,CC,CC,CB,CA;
+        CF,CD,CC,CC,CE+
+        
+        CE*/CF,CC*/CF,CC*/CG,CF,CB;
+        CB*/CG,SB*/CA,CC*/CG,CA,CD;CG*/CE,CA*/CA,CF*/CA,CE,CB;
+        CF,CF,CE,CB,CG;
+        CE,CG,CC,CG,CC
+
+        |4-7|
+
+        CF,SJ,CB,CE,SJ;
+        CG,CB,CD,CC,XE;
+        CH,CC,CG,CB,CD;
+        SJ,CD,CB,SJ,CC;
+        CC,CD,CB,CD,CH+
+        
+        CH,SJ,CG,CD,CE;
+        XG,CD,CC,CH,SJ;
+        CG,CB,SJ,CG,CD;
+        SJ,CG,CF,CC,CB;
+        CD,CF,CB,CH,CG+
+        
+        CC,CH,SJ,CE,CD;
+        SJ,CG,CH,CH,CC;
+        CE,CH,CC,CC,CD;
+        CC,SJ,CF,CB,CG;
+        CF,CC,CD,SJ,CB+
+        
+        SJ,CD,CE,CD,CE;
+        CD,CG,XF,CD,CH;
+        CE,SJ,CB,CE,SJ;
+        CC,CD,CH,CB,CD;
+        SJ,CB,CE,CG,CC+
+        
+        CD,SJ,CC,CB,CE;
+        CH,CH,CE,CF,SJ;
+        SJ,CC,CE,CB,CH;
+        CF,CF,CH,SJ,CE;
+        CH,CG,CB,CD,CC+
+        
+        CF,SJ,CG,CD,CF;
+        CE,CG,CD,CC,CD;
+        CB,CH#,SJ#,CH#,CG;
+        SJ,CH,CB,CC,SJ;
+        CD,CG,CG,CF,CB+
+        
+        CF,CH,SJ,CB,CG;
+        SJ,CE,XD,CH,CE;
+        CD,CG,CE,CE,CC;
+        CG,SJ,CF,CG,SJ;
+        CG,CD,CG,CB,CB"
+}]}
+
+
+{
+    "lotteryGameCode": "fdjletresordespyramides2023",
+    "stake": {
+    "value": 200,
+    "currency": "EUR"
+    },
+    "draws": [
+    {
+    "rankIndex": 10,
+    "symbol": "
+    CD,CF,CD,CA,CA;
+    CB,CD,CE,CC,CC;
+    CF,CG,CC,CC,CE;
+    CD,CA,CE,CA,CA;
+    CF,CD,CD,CE,CB+
+    
+    CD,CD,CB,CA,CB;
+    BA#,CB,CB,CF,CE;
+    CG,CE,CE,CD,CC;
+    CD,CG,CB,CB,CE;
+    CB,CC,CZ#,CE,CE+
+    
+    CG,CE,CB,CA,CB;
+    CG,CD,CG,CD,CB;
+    CB,CB,CG,CE,CC;
+    CG,CB,CE,CG,CB;
+    CA,CC,CG,CC,CC+
+    
+    CE,CB,CG,SA$/CE,CD$/CD;
+    BE#,CG$/CF,CG$/CC,CA,CE;
+    CC$/CA,CF,CA,CB,CB;
+    CG,CG,CA,CF,CA$/CB;
+    CB,CE,CE$/CB,CG,CG+
+    
+    CB,CF,CE,CD,CG;
+    CA,SD#,CD,CC,CG;
+    CF,CE,CG,CC,BC#;
+    CB,CF,CE,CA,CB;
+    CF,CC,CD,CF,CG+
+    
+    CE,CE,CA,CB,CG;
+    CD,CD,CB,CG,CA;
+    CB,CG,CF,CE,CD;
+    CD,CF,CE,CE,CD;
+    CB,CG,CF,CA,CG+
+    
+    CG,CE,CA,CC,CD;
+    CA,CC,CC,CE,CD;
+    CB,CG,CF,CA,CB;
+    CC,CE,CG,CF,CB;
+    CD,CE,CC,CB,CC|"
+    }
+    ]
+    }
